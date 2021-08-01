@@ -15,7 +15,7 @@ public:
         if(str[i] == '-' || str[i] == '+')
             indicator = (str[i++] == '-') ? -1 : 1;
         
-        while(i < str.size() && '0'<= str[i] && str[i] <= '9') 
+        while('0'<= str[i] && str[i] <= '9') 
         {
             result = result*10 + (str[i++] - '0');
             if(result*indicator >= INT_MAX) return INT_MAX;
