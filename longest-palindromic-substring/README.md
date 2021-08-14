@@ -1,3 +1,4 @@
+[Discussion Post (created on 14/7/2021 at 11:55)](https://leetcode.com/problems/longest-palindromic-substring/discuss/1402353/C%2B%2B-Clean-code-and-Easy-to-understand-oror-Expand-around-center-Approach)  
 <h2>5. Longest Palindromic Substring</h2><h3>Medium</h3><hr><div><p>Given a string <code>s</code>, return&nbsp;<em>the longest palindromic substring</em> in <code>s</code>.</p>
 
 <p>&nbsp;</p>
